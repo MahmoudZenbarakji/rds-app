@@ -1,0 +1,41 @@
+{
+    "skip":"skip",
+    "arabic":"arabic",
+    "shopping":"shopping",
+    "screen1":"Now you can shop from your phone with easy and simplicity",
+    "search":"search",
+    "screen2":"Find your product you want with the right specificaation for you",
+    "favorite":"Favorite",
+    "screen3":"you can make the product that you liked and you can also tag the ...",
+    "getstarted":"get started",
+    "mobilephone":"mobile phone",
+    "phonenumber":"phone number",
+    "sendotp":"send otp",
+    "notregisteryet":"not register yet",
+    "register":"register",
+    "or":"or",
+    "signinasadriver":"sign in as a driver",
+    "verificationcode":"verification code",
+    "verifyscreen":"we have sent the code verification to your mobile number",
+    "topnotrecieved":"top not recieved",
+    "verify":"verify",
+    "settings":"Settings",
+    "myboxes":"myboxes",
+    "invoices":"invoices",
+    "Boxsettings":"Box settings",
+    "enableboxkeboard":"Enable box keboard",
+    "rebootbox":"Reboot box",
+    "updatewifisettings":"Update wifi settings",
+    "updatecellularsettings":"update cellular settings",
+    "general":"General",
+    "appmode":"App mode",
+    "notification":"notification",
+    "account":"account",
+    "passwordandsecurity":"password and security",
+    "logout":"logout",
+    "language": "language"
+
+
+
+
+}
