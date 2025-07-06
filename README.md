@@ -1,6 +1,6 @@
 # rdsboxapp
 
-A new Flutter project.
+this  frontend mobile app is for delivering items from placeto place 
 
 ## Getting Started
 
